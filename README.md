@@ -1,5 +1,6 @@
 # setup for lineage based roms  only
  device : Lenovo vibe P1m
+ 
 steps
 # Run script after sudo su
 1. if you r building lineage run linp1m.sh
