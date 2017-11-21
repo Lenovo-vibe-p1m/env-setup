@@ -3,11 +3,11 @@
  
 steps
 # Run script after sudo su
-1. if you r building lineage run linp1m.sh
+1. if you r building lineage run linp1m.sh 
 
-2. other roms change git link in linp1m.sh
+2. other roms change git link in linp1m.sh 
 
-3.wait >>enter username and passward
+3. wait >>enter username and passward 
 
 4. wait .
 .
