@@ -1,33 +1,9 @@
-# setup for lineage based roms  only
- device : Lenovo vibe P1m
- 
-steps
-# Run script after sudo su
-1. if you r building lineage run linp1m.sh 
+#env setup for ubuntu 16.04 and 17
 
-2. other roms change git link in linp1m.sh 
 
-3. wait >>enter username and passward 
+1. sudo bash ubuntu1604linuxmint18.sh
+2. sudo bash install_android_sdk.bash
+3. create_user.sh
 
-4. wait .
-.
-.
-.
-.
-.
-..
-.
-..
-.
-.
-.
-.
-..
-.
-..
-.
-..
-.
-..
-.
-. fix errors ..
+done......
+
